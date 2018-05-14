@@ -4,7 +4,7 @@ import org.junit.Test;
 import java.util.Arrays;
 import static org.junit.Assert.assertEquals;
 
-public class KataTest {
+public class RockPaperScissorsKataTest {
     @Test
     public void basicTests() {
         int[] input = new int[] { 4, 3, 9, 7, 2, 1 };
