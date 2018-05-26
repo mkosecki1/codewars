@@ -34,4 +34,5 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-thymeleaf')
 	compileOnly('org.projectlombok:lombok')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
+	compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.7'
 }

@@ -1,7 +1,5 @@
 package com.codewars.kyu8.CountOfPositives;
 
-import java.util.Arrays;
-
 public class Kata {
     public static int[] countPositivesSumNegatives(int[] input) throws NullPointerException{
         int count = 0;
