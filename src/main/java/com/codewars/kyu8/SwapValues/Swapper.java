@@ -1,7 +1,5 @@
 package com.codewars.kyu8.SwapValues;
 
-import java.util.Collections;
-
 public class Swapper {
     public Object[] arguments;
 

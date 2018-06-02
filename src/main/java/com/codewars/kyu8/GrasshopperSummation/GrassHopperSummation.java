@@ -1,7 +1,5 @@
 package com.codewars.kyu8.GrasshopperSummation;
 
-import java.util.stream.IntStream;
-
 public class GrassHopperSummation {
     public static int summation(int n) {
         int sum = 0;
