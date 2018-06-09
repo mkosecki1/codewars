@@ -18,6 +18,7 @@ public class TestConverter {
     @Test
     public void test3() {
         assertEquals(10.62f, Converter.mpgToKPM(30), 0.001f);
+        assertEquals(12.74, Converter.mpgToKPM(36), 0.001f);
     }
 
 }
