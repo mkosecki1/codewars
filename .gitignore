@@ -25,3 +25,5 @@ dist/
 nbdist/
 .nb-gradle/
 /src/main/java/com/codewars/kyu8/CodilityOne/
+/src/test/java/com/codewars/kyu8/CodilityOne/
+/src/test/java/com/codewars/kyu8/Nokia/
