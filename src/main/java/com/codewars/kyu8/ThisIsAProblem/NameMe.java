@@ -11,5 +11,6 @@ public class NameMe {
     public NameMe(String firstName, String lastName) {
         this.firstName = firstName;
         this.lastName = lastName;
+        this.fullName = String.join(" ", firstName, lastName);
     }
 }
