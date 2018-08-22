@@ -2,6 +2,7 @@
 /build/
 !gradle/wrapper/gradle-wrapper.jar
 /CodilityOne/
+/out/
 
 ### STS ###
 .apt_generated
@@ -27,3 +28,8 @@ nbdist/
 /src/main/java/com/codewars/kyu8/CodilityOne/
 /src/test/java/com/codewars/kyu8/CodilityOne/
 /src/test/java/com/codewars/kyu8/Nokia/
+out/production/classes/generated/
+out/test/classes/generated_tests/
+src/main/resources/static/
+src/main/resources/templates/
+src/test/resources/
