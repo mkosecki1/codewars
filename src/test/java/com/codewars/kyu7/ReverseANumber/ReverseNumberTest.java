@@ -1,6 +1,7 @@
 package com.codewars.kyu7.ReverseANumber;
 
 import static org.junit.Assert.assertEquals;
+
 import org.junit.Test;
 
 public class ReverseNumberTest {
