@@ -33,3 +33,5 @@ out/test/classes/generated_tests/
 src/main/resources/static/
 src/main/resources/templates/
 src/test/resources/
+/src/main/java/com/codewars/Hemmersbach/
+/src/test/java/com/codewars/Hemmersbach/
